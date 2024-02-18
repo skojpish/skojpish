@@ -9,7 +9,7 @@
 - есть навык деплоя проектов на хостинге
 - большой интерес к работе с базами данных
 - окончил бакалавриат СПбГЭТУ "ЛЭТИ" по направлению "Управление в технических системах"
-- стремлюсь принять участие в больших и серьезных проектах
+- стремлюсь принять участие в больших и серьезных совместных проектах
 
 ## Стек
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) <img src="https://bytepix.ru/ib/BTYMWK0ZKp.png" width=100 height=28> ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
