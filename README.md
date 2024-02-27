@@ -17,4 +17,4 @@
 [![telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/skojpish) [![vk](https://img.shields.io/badge/VK-blue?logo=vk&logoColor=white&style=for-the-badge)](https://vk.com/skojpish)
 
 ## Codewars
-![Codewars](https://github.r2v.ch/codewars?user=skojpish)
+![Codewars](https://github.r2v.ch/codewars?user=skojpish&hide_clan=true)
